@@ -1,0 +1,6 @@
+{
+  "name": "SIAKAD STAI JARINABI - Rekap Presensi & Nilai Akademik",
+  "description": "Sistem Informasi Akademik STAI Jarinabi untuk rekapitulasi presensi pertemuan, penilaian otomatis UTS/UAS, kontrol ujian, manajemen tugas presentasi, dan ekspor Excel/PDF ber-TTD.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
